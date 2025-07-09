@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK FUNDA group</h1>
+<h1 align="center">Welcome to KK FUNDA GROUP</h1>
 <h1 align="center"> KK Devops starts new batch from aug 18th</h1>
 <hr>
 <br>
