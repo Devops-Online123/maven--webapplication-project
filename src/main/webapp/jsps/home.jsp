@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to KK FUNDA GROUP</h1>
-<h1 align="center"> KK Devops starts new batch from aug 18th7.30 pm-TElUGU</h1>
+<h1 align="center"> KK Devops starts new batch from aug 18th7.30 pm-TElUGU & english</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
