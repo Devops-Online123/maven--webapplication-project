@@ -28,7 +28,7 @@ node
     sh """
             curl -u sowmya:password \
             --upload-file /var/lib/jenkins/workspace/jio-scripted-way-pl/target/maven-web-application.war \
-            "http://15.206.84.12:1234/manager/text/deploy?path=/maven-web-application&update=true"
+            "http://13.203.221.216:1234/manager/text/deploy?path=/maven-web-application&update=true"
         
         """
    }
