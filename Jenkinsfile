@@ -17,5 +17,10 @@ pipeline {
                 echo 'Hello kk'
             }
         }    
+        stage('stage4') {
+            steps {
+                echo 'Hello groovy'
+            }
+        }    
     }
 }
